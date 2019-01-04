@@ -1,6 +1,6 @@
 # rust-msvc-container
 
-Rust MSVC container based on microsoft/powershell
+Rust MSVC container based on [microsoft/powershell](https://hub.docker.com/r/microsoft/powershell/)
 
 ```bash
 docker push termoshtt/rust-msvc:stable
